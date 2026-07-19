@@ -6,3 +6,4 @@
 
 ### Mostly self-made. Feel free to use, modify, or repost.
 
+### Accepting commissions / requests upon demand.
