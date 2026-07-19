@@ -1,6 +1,6 @@
 # TTML-Lyrics
 
-## 语言 / Language: [简体中文] | [English](./READMEen.md) | [日本語](./READMEjp.md)
+## 语言 / Language: 简体中文 | [English](./READMEen.md) | [日本語](./READMEjp.md)
 
 ## 个人的TTML仓库
 
